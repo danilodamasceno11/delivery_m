@@ -1,0 +1,23 @@
+3)
+
+
+4) Todos os gráficos foram desenvolvidos em Power BI Desktop, sendo utilizadas duas páginas ( Gráficos e Mapa).
+
+a)Foi escolhido o gráfico de barras empilhadas, para melhor visualizar o nome
+do bairro (neighborhood). Foi utlizada uma cor(principal cor da Airbnb),
+pois temos apenas a quantidade de avaliações como medida. 
+
+b)Como temos apenas três tipos de quartos(Room Type), foi escolhido o gráfico de colunas
+empilhadas para apresentar a média de dias mínimos de permanência no quarto. Esse gráfico
+é de fácil entendimento e o mais conhecido dos usuários. Como temos apenas uma medida, foi
+utilizada uma cor(principal cor da Airbnb).
+
+c)O mapa foi colocado em outra página para poder ficar maior, e assim exibir todos os pontos. Como temos
+muitas localizações, foi colocado o fundo do mapa preto para não cansar a visão do usuário. Os pontos têm
+tamanhos diferentes para número de avaliações ( facilitando localizar os mais avaliados) e cores distintas
+para os tipos de quartos(facilitando a visualização dos tipos). Não foram colocadas mais informações no mapa
+para não poluir o gráfico. 
+
+d)Foi escolhido o gráfico de linha para visualizar as avaliações por mês, pois esse gráfico informa de maneira
+simples e direta a linha temporal. Como temos apenas uma medida, foi mantido o padrão do dashboard com uma 
+cor(principal cor da Airbnb).
