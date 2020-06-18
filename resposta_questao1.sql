@@ -1,6 +1,6 @@
 # Consultas realizadas no MySQL
 
-# 1)a
+# 1)a)
 select distinct name,
 room_type  
 from ab_nyc_2019 
